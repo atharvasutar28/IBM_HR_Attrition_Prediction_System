@@ -7,7 +7,7 @@ I have used scikit-learn libraries for machine learning and numpy, pandas, seabo
 ## Data Overview
 Final dataset Attrition.csv dataset is created based on the IBM attrition dataset, with a few features added for the project, which included the Survival analysis and prediction of an employee attrition.
 
-## Tool -> Jupyter Notebook.
+## Tool -> Jupyter Notebook
 
 ## Approach
 Step 1 -> Viewing the dataset info.
@@ -23,7 +23,6 @@ Step 5 -> Performing various ML algorithms to choose right ML algorithm and extr
 4. Business Travel: Contains if employee use to travel frequently, rarely or never.
 5. Distance From Home: Contains the distance of office from employee's home.
 6. Job Satisfaction: Contains the satisfaction level on the scale of 1-4.
-
 
 ### Skills Acquired
 1. Data Transformation
